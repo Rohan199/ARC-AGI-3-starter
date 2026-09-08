@@ -1,0 +1,22 @@
+{
+  "game_id": "re86",
+  "steps": 304,
+  "waste_ratio": 0.3135,
+  "action_space": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "levels_completed": 0,
+  "rhae": 0.0,
+  "rhae_estimated": false,
+  "final_state": "NOT_FINISHED",
+  "level_actions": [
+    303
+  ],
+  "baselines": [
+    26
+  ]
+}

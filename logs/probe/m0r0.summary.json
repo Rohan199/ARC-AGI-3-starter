@@ -1,0 +1,23 @@
+{
+  "game_id": "m0r0",
+  "steps": 303,
+  "waste_ratio": 0.298,
+  "action_space": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "levels_completed": 0,
+  "rhae": 0.0,
+  "rhae_estimated": false,
+  "final_state": "NOT_FINISHED",
+  "level_actions": [
+    302
+  ],
+  "baselines": [
+    30
+  ]
+}

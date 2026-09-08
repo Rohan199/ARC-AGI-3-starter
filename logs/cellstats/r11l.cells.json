@@ -1,0 +1,11 @@
+{
+ "game_id": "r11l",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  60,
+  60
+ ],
+ "mask_cells": [],
+ "signal_cells": 601
+}

@@ -1,0 +1,21 @@
+{
+  "game_id": "bp35",
+  "steps": 309,
+  "waste_ratio": 0.0,
+  "action_space": [
+    3,
+    4,
+    6,
+    7
+  ],
+  "levels_completed": 0,
+  "rhae": 0.0,
+  "rhae_estimated": false,
+  "final_state": "NOT_FINISHED",
+  "level_actions": [
+    308
+  ],
+  "baselines": [
+    21
+  ]
+}

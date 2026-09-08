@@ -1,0 +1,18 @@
+{
+  "game_id": "lp85",
+  "steps": 302,
+  "waste_ratio": 0.9934,
+  "action_space": [
+    6
+  ],
+  "levels_completed": 0,
+  "rhae": 0.0,
+  "rhae_estimated": false,
+  "final_state": "NOT_FINISHED",
+  "level_actions": [
+    301
+  ],
+  "baselines": [
+    17
+  ]
+}

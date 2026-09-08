@@ -1,0 +1,10 @@
+{
+ "game_id": "cn04",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  75
+ ],
+ "mask_cells": [],
+ "signal_cells": 1355
+}

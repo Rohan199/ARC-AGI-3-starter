@@ -1,0 +1,13 @@
+{
+ "game_id": "sp80",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  24,
+  20,
+  19,
+  30
+ ],
+ "mask_cells": [],
+ "signal_cells": 1616
+}

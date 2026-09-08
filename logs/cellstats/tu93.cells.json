@@ -1,0 +1,10 @@
+{
+ "game_id": "tu93",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  86
+ ],
+ "mask_cells": [],
+ "signal_cells": 127
+}

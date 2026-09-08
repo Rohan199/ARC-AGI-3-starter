@@ -1,0 +1,13 @@
+{
+ "game_id": "bp35",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  22,
+  32,
+  25,
+  35
+ ],
+ "mask_cells": [],
+ "signal_cells": 1705
+}

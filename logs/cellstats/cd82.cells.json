@@ -1,0 +1,10 @@
+{
+ "game_id": "cd82",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  100
+ ],
+ "mask_cells": [],
+ "signal_cells": 832
+}

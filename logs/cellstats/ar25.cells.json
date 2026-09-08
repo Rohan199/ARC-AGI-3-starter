@@ -1,0 +1,10 @@
+{
+ "game_id": "ar25",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  78
+ ],
+ "mask_cells": [],
+ "signal_cells": 760
+}

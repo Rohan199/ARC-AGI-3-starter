@@ -1,0 +1,10 @@
+{
+ "game_id": "sc25",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  87
+ ],
+ "mask_cells": [],
+ "signal_cells": 210
+}

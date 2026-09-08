@@ -1,0 +1,12 @@
+{
+ "game_id": "ft09",
+ "rows": 64,
+ "cols": 64,
+ "episode_lengths": [
+  34,
+  36,
+  36
+ ],
+ "mask_cells": [],
+ "signal_cells": 136
+}
